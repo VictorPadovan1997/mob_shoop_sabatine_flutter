@@ -1,8 +1,5 @@
 # mob_shop
 
-A new Flutter project.
+Projeto desenvolvido em Flutter como entrega de trabalho.
 
-Alunos: 
-VictorPadovan - RA 558461
-Marcus Vinicius - 580279 RA
-Thiago Aki - 568236 RA
+
